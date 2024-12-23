@@ -21,4 +21,4 @@ A smart note-taking web application built with Django for aerospace engineering 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Django-Aerospace-SmartNote.git
+   git clone https://github.com/asileayuba/PLP_FINAL_PROJECT.git
